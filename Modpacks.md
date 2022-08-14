@@ -34,7 +34,7 @@ Infinity  https://github.com/BrokenDawn627/Infinity-Modpack 1.18.1
 
 EnigTech2  https://github.com/ET-Team/EnigTech2 1.12.2
 
-
+GTNeoHorizon  https://github.com/Hydrogen897/GTNeoHorizon
 
 Mcbbs区
 
