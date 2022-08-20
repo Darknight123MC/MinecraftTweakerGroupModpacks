@@ -34,6 +34,8 @@ Hydrogen897  GTNeoHorizon  https://github.com/Hydrogen897/GTNeoHorizon  1.12.2
 
 狂想ThePotato  Deep To Destiny  https://www.mcmod.cn/modpack/343.html  1.16.5 注：作者狂想ThePotato已弃坑，github账号疑似注销，因此放mcmod链接
 
+低耐久的铁砧  https://github.com/Ironnoob73/FARmodpack
+
 Mcbbs区
 
 抽了风的你  提尔3：九天往事  https://www.mcbbs.net/thread-1273094-1-1.html
