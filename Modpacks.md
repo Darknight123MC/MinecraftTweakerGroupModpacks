@@ -36,6 +36,8 @@ Hydrogen897  GTNeoHorizon  https://github.com/Hydrogen897/GTNeoHorizon  1.12.2
 
 低耐久的铁砧  https://github.com/Ironnoob73/FARmodpack
 
+SixColor CreaTech/To-Creationist-Surrealist https://github.com/liuseniubi/To-Creationist-Surrealist
+
 Mcbbs区
 
 抽了风的你  提尔3：九天往事  https://www.mcbbs.net/thread-1273094-1-1.html
