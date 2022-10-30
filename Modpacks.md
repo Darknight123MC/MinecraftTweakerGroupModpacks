@@ -6,8 +6,6 @@ Project-AT  ThirdRebirth  https://github.com/Project-AT/ThirdRebirth 1.12.2
 
 Project-StarryNight(main Hikari_Nova)   StarryNightPray  https://github.com/Project-StarryNight/StarryNight_Pray 1.12.2
 
-ProjectHDS  Herodotus  https://github.com/ProjectHDS/Herodotus 1.12.2
-
 TEP-team(main Dark2932) Travel-Earth-Plan  https://github.com/TEP-team/Travel-Earth-Plan 1.12.2
 
 TCreopargh  GreedyCraft  https://github.com/TCreopargh/GreedyCraft 1.12.2
